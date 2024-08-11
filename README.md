@@ -30,14 +30,14 @@ This project demonstrates how to create a user authentication system using Djang
 #### 1.1 Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name/backend
+https://github.com/sfaat/authentication_cookies.git
+cd authentication_cookies/backend
 
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
 
 pip install -r requirements.txt
-cd ../frontend
+cd frontend
 
-npm install  # or yarn install
+npm install  
